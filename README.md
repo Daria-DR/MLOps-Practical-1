@@ -6,3 +6,5 @@ Author: Daria Romanova
 ## About Me
 Hi, I’m Daria.
 I’m learning how to use GitHub Issues.
+## Fun Fact
+Hello world!
