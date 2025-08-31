@@ -1,2 +1,3 @@
-# MLOps-Practical-1
-This is my first GitHub repository for the Reproducibility &amp; Model Deployment course. 
+# MLOps Practical 1
+This is my first GitHub repository for the Reproducibility & Model Deployment course.  
+Author: Daria Romanova
