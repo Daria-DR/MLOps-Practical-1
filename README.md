@@ -7,4 +7,7 @@ Author: Daria Romanova
 Hi, I’m Daria.
 I’m learning how to use GitHub Issues.
 ## Fun Fact
-Hello world!
+Hello World
+
+ sudo docker run reproducible-proj
+/usr/local/bin/python: No module named src.__main__; 'src' is a package and cannot be directly executed
